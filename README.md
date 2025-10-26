@@ -8,13 +8,11 @@
 Browse a entities, collections, items, and details using JSON
 
 - [x] JSON-powered static page route
-- [x] basic data browser ui with tailwind 4 and shadcn/ui
-- [x] git hook linting and typechecking with tsgo
-- [x] docker postgres
-- [ ] seed scripts
-- [ ] data access later
-- [ ] mastra integration  
-- [ ] frontend
+- [x] Tailwind 4 and shadcn/ui data browser UI
+- [x] TSGO Typechecking and Biome linting using Lefthook git hooks
+- [x] Docker postgres
+- [ ] Drizzle seed scripts
+- [ ] Mastra agent endpoints
 
 ## Getting Started
 
@@ -22,5 +20,5 @@ Browse a entities, collections, items, and details using JSON
 2. Start apps `bun dev`
 
 - Next.js at `http://localhost:3000`
-- Agent Playground at `http://localhost:3020`
+- Agent playground at `http://localhost:3020`
 - Agent API at `http://localhost:3020`
