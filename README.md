@@ -11,10 +11,10 @@ Browse a entities, collections, items, and details using JSON
 - [x] basic data browser ui with tailwind 4 and shadcn/ui
 - [x] git hook linting and typechecking with tsgo
 - [x] docker postgres
-- [] seed scripts
-- [] data access later
-- [] mastra integration  
-- [] frontend
+- [ ] seed scripts
+- [ ] data access later
+- [ ] mastra integration  
+- [ ] frontend
 
 ## Getting Started
 
