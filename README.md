@@ -12,6 +12,7 @@ Browse a entities, collections, items, and details using JSON
 - [x] TSGO Typechecking and Biome linting using Lefthook git hooks
 - [x] Docker postgres
 - [ ] Drizzle seed scripts
+- [ ] Data Access Layer using Drizzle ORM
 - [ ] Mastra agent endpoints
 
 ## Getting Started
